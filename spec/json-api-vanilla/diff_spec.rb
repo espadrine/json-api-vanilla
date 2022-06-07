@@ -1,4 +1,4 @@
-# Copyright © Trainline Limited, 2016. All rights reserved. See LICENSE.txt in the project root for license information.
+# Copyright © Trainline Limited, 2016, Thaddée Tyl, 2016-2022. All rights reserved. See LICENSE.txt in the project root for license information.
 require 'spec_helper'
 
 describe JSON::Api::Vanilla do
